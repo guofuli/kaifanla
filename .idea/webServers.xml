@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c51c947-1cb1-4ed5-8ade-350d85b1c4c2" name="a" url="http://192.168.88.113:8888/kaifanla">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\kaifanla" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

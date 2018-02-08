@@ -1,0 +1,11 @@
+.mainsearch{
+  position:relative;
+}
+.mainsearch input{
+  position:absolute;
+  left:0px;
+}
+.mainsearch span{
+  position:absolute;
+  right:20px;
+}
